@@ -4,13 +4,13 @@
 
 ⛺  Oslo, Norway
 
-👨‍💻 [trollefsen](https://trollefsen.com)
+👨‍💻 [me site](https://trollefsen.com)
 
 🦹‍♂️ [superme.ai](https://www.superme.ai/trollefsen)
 
-🤝 [Ping me to collaborate](mailto:daniel@trollefsen.com)
+🤝 [ping me](mailto:daniel@trollefsen.com)
 
-⬆ 'member to hold ctrl / cmd when you click the links
+⬆ Hold ctrl / cmd when you click me links
 
 <!--
 **da-troll/da-troll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
