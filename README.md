@@ -1,5 +1,3 @@
-### ⚡ Welcome ⚡
-
 <img align="right" width="240" src="https://github.com/acrokat/acrokat/assets/16325997/0d04e3f6-1505-49e1-9428-0e9d9307628f">
 
 💻  Automating and integrating AI tings @ [Simployer](https://simployer.com)
