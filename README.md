@@ -10,8 +10,6 @@
 
 🤝 [ping me](mailto:daniel@trollefsen.com)
 
-
-
 ⬆ Hold ctrl / cmd when you click me links
 
 <!--
